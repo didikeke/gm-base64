@@ -1,0 +1,22 @@
+{
+  "name": "gm-base64",
+  "version": "0.0.1",
+  "description": "A plugin for gm node module, which converts img to base64 string",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didikeke/gm-base64.git"
+  },
+  "keywords": [
+    "gm",
+    "ImageMagick",
+    "GraphicsMagick",
+    "base64"
+  ],
+  "author": "didikeke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didikeke/gm-base64/issues"
+  },
+  "homepage": "https://github.com/didikeke/gm-base64#readme"
+}
