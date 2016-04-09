@@ -1,6 +1,6 @@
 {
   "name": "gm-base64",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A plugin for gm node module, which converts img to base64 string",
   "main": "index.js",
   "repository": {
